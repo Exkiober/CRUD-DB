@@ -3,15 +3,19 @@ venv/
 
 # Ignore files in schema directory but keep the directory
 schema/*
+schema/.gitkeep
 
 # Ignore files in sql directory but keep the directory
 sql/*
+sql/.gitkeep
 
 # Ignore files in sql/migration directory but keep the directory
 sql/migration/*
+sql/migration/.gitkeep
 
 # Ignore files in sql_for_test directory but keep the directory
 sql_for_test/*
+sql_for_test/.gitkeep
 
 
 # Ignore .DS_Store files
