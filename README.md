@@ -1,3 +1,15 @@
+This is created because i faced the limitation of Prisma 
+
+This is created for 
+
+1. Read the schema for your database
+
+2. You edit a new one
+
+3. Script will compare and generate the sql you need
+
+4. You insert and migrate it
+
 python3 -m venv venv
 
 source venv/bin/activate
