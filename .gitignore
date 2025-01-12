@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore files in schema directory but keep the directory
+schema/*
+
+# Ignore files in sql directory but keep the directory
+sql/*
+
+# Ignore files in sql/migration directory but keep the directory
+sql/migration/*
+
+# Ignore files in sql_for_test directory but keep the directory
+sql_for_test/*
+
+
+# Ignore .DS_Store files
+.DS_Store
